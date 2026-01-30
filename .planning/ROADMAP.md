@@ -23,9 +23,9 @@
 **Plans:** 3 plans
 
 Plans:
-- [ ] 01-01-PLAN.md - Project setup + FractionBar component
-- [ ] 01-02-PLAN.md - Interactive shading + ComparisonView layout
-- [ ] 01-03-PLAN.md - Visual polish + device verification
+- [x] 01-01-PLAN.md - Project setup + FractionBar component
+- [x] 01-02-PLAN.md - Interactive shading + ComparisonView layout
+- [x] 01-03-PLAN.md - Visual polish + device verification
 
 **Requirements:**
 - VIS-01: Display horizontal bar models matching Singapore Math textbook style
@@ -51,6 +51,12 @@ Plans:
 
 **Goal:** System generates age-appropriate fraction comparison problems for each method
 
+**Plans:** 2 plans
+
+Plans:
+- [x] 02-01-PLAN.md - Types, constants, and fraction utilities
+- [x] 02-02-PLAN.md - TDD problem generators for all 3 methods
+
 **Requirements:**
 - PROB-01: Generate fraction pairs appropriate for each method
 - PROB-02: Limit denominators to P3 Singapore Math set (2, 3, 4, 5, 6, 8)
@@ -73,6 +79,13 @@ Plans:
 
 **Goal:** Student can practice each comparison method in isolation with difficulty selection
 
+**Plans:** 3 plans
+
+Plans:
+- [x] 03-01-PLAN.md - Mode and difficulty selector components
+- [x] 03-02-PLAN.md - Practice session and answer buttons
+- [x] 03-03-PLAN.md - Page integration and verification
+
 **Requirements:**
 - MODE-01: Same numerator practice mode (Method 1: compare denominators)
 - MODE-02: Same denominator practice mode (Method 2: compare numerators)
@@ -94,6 +107,12 @@ Plans:
 ## Phase 4: Advanced Visuals
 
 **Goal:** Student sees 1/2 benchmark reference and animated equivalent fraction conversions
+
+**Plans:** 2 plans
+
+Plans:
+- [ ] 04-01-PLAN.md - 1/2 benchmark bar + BenchmarkComparisonView
+- [ ] 04-02-PLAN.md - Animated subdivision + trigger integration
 
 **Requirements:**
 - VIS-06: Display 1/2 benchmark reference bar alongside two fractions (Method 3)
