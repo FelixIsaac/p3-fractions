@@ -111,8 +111,8 @@ Plans:
 **Plans:** 2 plans
 
 Plans:
-- [ ] 04-01-PLAN.md - 1/2 benchmark bar + BenchmarkComparisonView
-- [ ] 04-02-PLAN.md - Animated subdivision + trigger integration
+- [x] 04-01-PLAN.md - 1/2 benchmark bar + BenchmarkComparisonView
+- [x] 04-02-PLAN.md - Animated subdivision + trigger integration
 
 **Requirements:**
 - VIS-06: Display 1/2 benchmark reference bar alongside two fractions (Method 3)
@@ -130,6 +130,13 @@ Plans:
 ## Phase 5: Feedback System
 
 **Goal:** Student receives immediate, graduated, encouraging feedback on all interactions
+
+**Plans:** 3 plans
+
+Plans:
+- [x] 05-01-PLAN.md - FeedbackDisplay component + audio cues
+- [x] 05-02-PLAN.md - Hint system + encouraging messages
+- [x] 05-03-PLAN.md - Wire into PracticeSession + verification
 
 **Requirements:**
 - FEED-01: Immediate correctness indicator (<0.5 sec visual/audio cue)
@@ -152,6 +159,13 @@ Plans:
 ## Phase 6: Engagement & Polish
 
 **Goal:** Progress persists between sessions and interface optimized for ADHD learner
+
+**Plans:** 3 plans
+
+Plans:
+- [ ] 06-01-PLAN.md - Progress types + localStorage persistence
+- [ ] 06-02-PLAN.md - Engagement UI (streak, progress bar, session summary)
+- [ ] 06-03-PLAN.md - UX polish + pause/resume + verification
 
 **Requirements:**
 - ENG-01: Streak counter showing consecutive correct answers
