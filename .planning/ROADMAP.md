@@ -20,6 +20,13 @@
 
 **Goal:** Student can see and interact with horizontal fraction bars on laptop and tablet
 
+**Plans:** 3 plans
+
+Plans:
+- [ ] 01-01-PLAN.md - Project setup + FractionBar component
+- [ ] 01-02-PLAN.md - Interactive shading + ComparisonView layout
+- [ ] 01-03-PLAN.md - Visual polish + device verification
+
 **Requirements:**
 - VIS-01: Display horizontal bar models matching Singapore Math textbook style
 - VIS-02: Show complete whole bar with fraction part shaded
@@ -154,7 +161,7 @@
 
 - Total v1 requirements: 33
 - Mapped to phases: 33
-- Coverage: 100% ✓
+- Coverage: 100%
 
 ### Mapping Detail
 
