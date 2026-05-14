@@ -24,8 +24,15 @@
     "eslint": "^9",
     "eslint-config-next": "^16.2.6",
     "jsdom": "^27.0.1",
+    "postcss": "^8.5.14",
     "tailwindcss": "^4",
     "typescript": "^5",
     "vitest": "^3.2.4"
+  },
+  "overrides": {
+    "postcss": "^8.5.14",
+    "ajv": "^6.14.0",
+    "brace-expansion": "^2.0.3",
+    "picomatch": "^4.0.4"
   }
 }
