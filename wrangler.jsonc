@@ -4,6 +4,7 @@
   "account_id": "e12ab8c3b4d67d86a8085942f8783e81",
   "compatibility_date": "2026-11-01",
   "workers_dev": true,
+  "routes": [{ "pattern": "p3-fractions.felixisaac.dev", "custom_domain": true }],
   "assets": {
     "directory": "./out",
     "not_found_handling": "404-page"
